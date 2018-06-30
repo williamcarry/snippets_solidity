@@ -7,3 +7,4 @@ Last Live-Test (Solidity 0.4.16): Sat. 26. august 2017.
 
 timesafe.sol:
 Last Live-Test (Solidity 0.4.18): Fr. 27. october 2017
+https://www.youtube.com/watch?v=4K7ht86RmuQ
